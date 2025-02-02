@@ -1,0 +1,10 @@
+streamlit
+langchain_groq
+langchain_community
+langchain_core
+langchain_text_splitters
+langchain_ollama
+crewai
+pandas
+plotly
+sentence-transformers
