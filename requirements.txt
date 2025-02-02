@@ -1,4 +1,5 @@
 streamlit
+sqlite3 
 langchain_groq
 langchain_community
 langchain_core
